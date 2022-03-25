@@ -382,6 +382,23 @@ do($ = window.jQuery, window) ->
         'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'Como você não respondeu nos últimos %s minutos sua conversa foi encerrada.',
         'We are sorry, it takes longer as expected to get an empty slot. Please try again later or send us an email. Thank you!': 'Desculpe, mas o tempo de espera por um agente foi excedido. Tente novamente mais tarde ou nós envie um email. Obrigado'
       },
+      'uk':
+        '<strong>Chat</strong> with us!': 'Напишіть нам!'
+        'Scroll down to see new messages': 'Гортайте вниз, щоб побачити нові повідомлення'
+        'Online': 'В мережі'
+        'Offline': 'Не в мережі'
+        'Connecting': 'З`єднання'
+        'Connection re-established': 'З`єднання	відновлено'
+        'Today': 'Сьогодні'
+        'Send': 'Відправити'
+        'Chat closed by %s': '%s закрив чат'
+        'Compose your message…': 'Напишіть повідомлення…'
+        'All colleagues are busy.': 'Всі фахівці зайняті'
+        'You are on waiting list position <strong>%s</strong>.': 'Ви в черзі очікування під номером <strong>%s</strong>'
+        'Start new conversation': 'Розпочати новий діалог.'
+        'Since you didn\'t respond in the last %s minutes your conversation with %s got closed.': 'Оскільки ви не відповідали впродовж останніх %s хвилин, вашу розмову з %s було закрито.'
+        'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'Оскільки ви не відповідали впродовж останніх %s хвилин, вашу розмову було закрито.'
+        'We are sorry, it takes longer as expected to get an empty slot. Please try again later or send us an email. Thank you!': 'На жаль, очікування вільного місця потребує більше часу. Спробуйте, будь ласка, пізніше або направте нам елктронний лист. Дякуємо!'
       'zh-cn':
         '<strong>Chat</strong> with us!': '发起<strong>即时对话</strong>!'
         'Scroll down to see new messages': '向下滚动以查看新消息'
